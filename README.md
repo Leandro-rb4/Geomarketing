@@ -38,5 +38,5 @@ Si tomamos en cuenta lo anterior y vemos que el geomarketing se basa en gran par
 Las imágenes presentadas en este escrito fueron obtenidas del sitio web [Pixabay](https://pixabay.com/es/), el cual nos ofrece imágenes que pueden ser utilizadas sin pedir permiso o dar créditos a el o los creadores. 
 
 
-### **Referencias**  
+## **Referencias**  
 Geoinnova. (2014, 3 septiembre). Marketing y localización: El Geomarketing. https://n9.cl/gu9wm
