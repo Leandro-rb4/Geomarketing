@@ -13,11 +13,11 @@ Está claro que gran parte del éxito de muchas compañías viene de la mano de 
 El geomarketing se apoya de diversas técnicas para el análisis de esa realidad con el fin de facilitar la toma de decisiones clave para el bienestar de una empresa. 
 En una publicación del sitio web [Geoinnova](https://geoinnova.org/marketing-y-localizacion-el-geomarketing/) (2014) se mencionan ciertas **aplicaciones** que puede tener el geomarketing, a continuación se mencionan algunas:
 
-    -	Conocer el área de influencia que tienen la o las sedes de una empresa.
-    -	Identificar áreas que no están siendo cubiertas.
-    -	Conocer la ubicación de los clientes y de potenciales clientes también.
-    -	Conocer indicadores acerca de la actividad de la organización.
-    -	Establecer las mejores rutas de venta. 
+    * Conocer el área de influencia que tienen la o las sedes de una empresa.
+    * Identificar áreas que no están siendo cubiertas.
+    * Conocer la ubicación de los clientes y de potenciales clientes también.
+    * Conocer indicadores acerca de la actividad de la organización.
+    * Establecer las mejores rutas de venta. 
     
 Como se puede ver en la lista anterior, donde se mencionan solo algunas de las aplicaciones o beneficios del geomarketing, esta practica puede ser de gran ayuda para una mejor y más responsable toma de decisiones por parte de una organización. 
 
