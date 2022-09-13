@@ -2,7 +2,7 @@
 ## Tarea 1 del curso GF-0657 Programación en SIG  
 ### Alumno: Oscar Leandro Rodríguez Bolaños (B86648)
 
-#### ***¿Que es el geomarketing?***
+## ***¿Que es el geomarketing?***
 
 ![]( https://cdn.pixabay.com/photo/2013/07/18/10/56/graph-163509_960_720.jpg)
 
@@ -25,7 +25,7 @@ El geomarketing también se apoya de recursos como las redes sociales para hacer
 
 Otro elemento que siempre está evolucionando es el *mercado*, ya que en este confluyen diversos elementos y actores que lo modifican. Uno de los actores al que más debe prestarle atención toda organización es a su competencia, en este ámbito el geomarketing, mediante información georreferenciada de la actividad de la empresa y de sus competidoras, puede descubrir quien es la mayor competencia y en que aspectos esta es tanto fuerte como débil, esto para tomar las medidas pertinentes que beneficien a nuestra organización. 
 
-#### ***Geografía y geomarketing***
+## ***Geografía y geomarketing***
 
 ![]( https://cdn.pixabay.com/photo/2018/01/31/05/43/web-3120321_960_720.png)
 
@@ -34,9 +34,9 @@ Aunque el termino *geomarketing* puede estar muy asociado con profesionales del 
 Si tomamos en cuenta lo anterior y vemos que el geomarketing se basa en gran parte en la toma de decisiones basada en datos geográficos relacionados de alguna manera a la actividad de las empresas, podemos ver una fuerte e importante relación entre la labor y el conocimiento que poseen los profesionales en Geografía y este tipo de marketing, en donde, como ya se mencionó, los geógrafos pueden ofrecer importantes técnicas para la recolección, procesamiento, análisis y presentación de datos geográficos. 
 
 
-#### ***Nota***  
+### ***Nota***  
 Las imágenes presentadas en este escrito fueron obtenidas del sitio web [Pixabay](https://pixabay.com/es/), el cual nos ofrece imágenes que pueden ser utilizadas sin pedir permiso o dar créditos a el o los creadores. 
 
 
-#### **Referencias**  
+### **Referencias**  
 Geoinnova. (2014, 3 septiembre). Marketing y localización: El Geomarketing. https://n9.cl/gu9wm
